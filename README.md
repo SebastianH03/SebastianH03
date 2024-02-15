@@ -3,7 +3,7 @@
 - I'm currently working on an API with MongoDB
 - I'm currently learning about CRM with Salesforce
 - How to reach me:
-- - Email: sebasht2003@gmail.com
+  - Email: sebasht2003@gmail.com
   - linkedin: linkedin.com/in/sebastián-hernández-triana-308160271
 <!--
 **SebastianH03/SebastianH03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

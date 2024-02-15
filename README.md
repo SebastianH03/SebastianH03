@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sebastián Hernández</h1>
 <h3 align="center">System Engineer Student at Pontificia Universidad Javeriana Cali</h3>
 
@@ -15,7 +13,7 @@ I am currently studying at Pontificia Universidad Javeriana, where I am deeply i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sebastián hernández triana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián hernández triana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebastián-hernández-triana-308160271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián hernández triana" height="30" width="40" /></a>
 <a href="https://instagram.com/sebasht_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebasht_003" height="30" width="40" /></a>
 </p>
 

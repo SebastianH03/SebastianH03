@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+I am currently studying at Pontificia Universidad Javeriana, where I am deeply immersed in the field of software development. My academic pursuits predominantly center around mastering both frontend and backend technologies. Additionally, I have a keen interest in topics such as CRM and information management. Through my coursework and extracurricular activities, I have undertaken numerous student and personal projects, which have provided me with valuable hands-on experience in implementing software solutions across diverse domains.
+
 - I'm currently working on an API with MongoDB
 - I'm currently learning about CRM with Salesforce
 - How to reach me:
   - Email: sebasht2003@gmail.com
+  - 
   - linkedin: linkedin.com/in/sebastián-hernández-triana-308160271
 <!--
 **SebastianH03/SebastianH03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastián Hernández</h1>
 <h3 align="center">System Engineer Student at Pontificia Universidad Javeriana Cali</h3>
 
-I am currently studying at Pontificia Universidad Javeriana, where I am deeply immersed in the field of software development. My academic pursuits predominantly center around mastering both frontend and backend technologies. Additionally, I have a keen interest in topics such as CRM and information management. Through my coursework and extracurricular activities, I have undertaken numerous student and personal projects, which have provided me with valuable hands-on experience in implementing software solutions across diverse domains.
+I am a Systems Engineering student at Pontificia Universidad Javeriana and a professional frontend developer with hands-on industry experience building real-world applications. Alongside my academic training, I have been actively working in software development and strengthening my skills across modern web technologies.
+
+My current focus is expanding toward Artificial Intelligence, Machine Learning, Large Language Models, and data science. I am especially interested in intelligent automation and workflow orchestration using tools like n8n combined with LLMs. While I am in the process of deepening my specialization in AI, I am highly motivated and continuously learning through personal and academic projects. I am passionate about building practical, scalable solutions that connect software engineering with intelligent systems.
 
 - 🔭 I’m currently working on [an API with MongoDB](https://github.com/SebastianH03/API-MongoDB.git)
 
-- 🌱 I’m currently learning **about CRM with Salesforce**
+- 🌱 I’m currently learning **about workflow orchestration with N8N**
 
 - 📫 How to reach me **sebasht2003@gmail.com**
 

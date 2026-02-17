@@ -5,7 +5,7 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana and a pro
 
 My current focus is expanding toward Artificial Intelligence, Machine Learning, Large Language Models, and data science. I am especially interested in intelligent automation and workflow orchestration using tools like n8n combined with LLMs. While I am in the process of deepening my specialization in AI, I am highly motivated and continuously learning through personal and academic projects. I am passionate about building practical, scalable solutions that connect software engineering with intelligent systems.
 
-- 🔭 I’m currently working on [an API with MongoDB](https://github.com/SebastianH03/API-MongoDB.git)
+- 🔭 I’m currently working on [a To-Do list app with Django](https://github.com/SebastianH03/To-do-App-Django.git).
 
 - 🌱 I’m currently learning **about workflow orchestration with N8N**
 
